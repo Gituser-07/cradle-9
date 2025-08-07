@@ -1,5 +1,10 @@
 {
 
-	"sds":"abc"
+	"sds":"abc",
+	"cat": {
+		"cat1": "value1",
+		"cat2": "value2",
+		"cat3": "value3"	
+	}
 }
 
